@@ -1,0 +1,11 @@
+.h1{
+	color: aqua;
+}
+.bgc{
+	background-color: black;
+	min-height: 50px;
+	margin-top: 10px;
+	font-size: 30px;
+	color: wheat;
+	text-align: center;
+	font-weight: 800;
